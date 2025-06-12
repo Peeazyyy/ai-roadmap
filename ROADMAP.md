@@ -12,6 +12,14 @@
 - [NumPy & pandas Cheatsheet – Dataquest](https://www.dataquest.io/blog/pandas-cheat-sheet/)
 - [Matplotlib Tutorial – W3Schools](https://www.w3schools.com/python/matplotlib_intro.asp)
 
+| Woche | Fokus                 | Ziel                                                          |
+| ----- | --------------------- | ------------------------------------------------------------- |
+| 1–2   | CS50P Lektionen 0–3   | Input, Bedingungen, Schleifen, Funktionen                     |
+| 3–4   | CS50P Lektionen 4–6   | Dateizugriff, Libraries, Fehlerbehandlung                     |
+| 5     | CS50P Projekt + NumPy | CS50P-Projekt abschließen, NumPy-Tutorial                     |
+| 6     | pandas & Matplotlib   | Datenauswertung + Visualisierung (z. B. CSV mit Aktienkursen) |
+
+
 ### 🧪 Projekte:
 - 📊 Analyse historischer Wetterdaten mit pandas
 - 📈 Aktienkurs-Visualisierung (z. B. Tesla, Apple)
