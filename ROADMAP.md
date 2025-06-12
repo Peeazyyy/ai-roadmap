@@ -1,4 +1,3 @@
-# 🧭 Dein Weg zum AI-Experten (wie bei Tether beschrieben)
 
 **🕒 Zeitrahmen: 12 Monate | 2–3 h/Tag | 6 Tage/Woche**
 
